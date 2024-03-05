@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @coder-gaia!
-- 👀 Sou um desenvolvedor front-end(em breve full-stack) - Eu amo utilizar o bom e velho React + TypeScript.
+- 👀 Sou um desenvolvedor front-end(em breve full-stack) - Eu amo utilizar o bom e velho React + TypeScript. Sou muito adepto a tecnologias de test, como Jest e varias outras bibliotecas front-end.
 - 🌱 Atualmente estou aprendendo a linguagem back-end Java, e estou cada dia mais fascinado!
 - 💞️ Estou procurando colaborar em diversos projetos, sejam eles front ou back end. Sou muito dedicado no que  faço, se não sei algo, eu corro atrás!
 - 📫 Voce pode me contatar pelo linkedin(https://www.linkedin.com/in/alexandre-gaia/)
