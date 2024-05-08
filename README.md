@@ -5,7 +5,7 @@
 - 📫 Voce pode me contatar pelo linkedin(https://www.linkedin.com/in/alexandre-gaia/)
 - ⚡ Fun fact: Falo ingles fluente!
 
-### Detalhes
+### Details
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-gaia&show_icons=true&theme=tokyonight)
 
 ## Top Languages
