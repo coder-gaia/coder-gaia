@@ -1,9 +1,9 @@
 - 👋 Olá, eu sou @coder-gaia!
-- 👀 Sou um desenvolvedor front-end(em breve full-stack) - Eu amo utilizar o bom e velho React + TypeScript. Sou muito adepto a tecnologias de test, como Jest e varias outras bibliotecas front-end.
-- 🌱 Atualmente estou aprendendo a linguagem back-end Java, e estou cada dia mais fascinado!
+- 👀 Sou um desenvolvedor full stac- Estou imerso nos estudos de JavaScript, Java, Testes E2E e muito mais.
+- 🌱 Atualmente estou me aprofundando na linguagem Java, e estou cada dia mais fascinado!
 - 💞️ Estou procurando colaborar em diversos projetos, sejam eles front ou back end. Sou muito dedicado no que  faço, se não sei algo, eu corro atrás!
 - 📫 Voce pode me contatar pelo linkedin(https://www.linkedin.com/in/alexandre-gaia/)
-- ⚡ Fun fact: Falo ingles fluentemente desde os 16 anos!
+- ⚡ Fun fact: Falo ingles fluente!
 
 <!---
 coder-gaia/coder-gaia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
