@@ -7,7 +7,9 @@
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-gaia)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-gaia&show_icons=true)
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-gaia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 coder-gaia/coder-gaia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
