@@ -5,6 +5,9 @@
 - 📫 Voce pode me contatar pelo linkedin(https://www.linkedin.com/in/alexandre-gaia/)
 - ⚡ Fun fact: Falo ingles fluente!
 
+### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-gaia)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 coder-gaia/coder-gaia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
