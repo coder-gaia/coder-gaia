@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @coder-gaia!
-- 👀 Sou um desenvolvedor full stack - Estou imerso nos estudos de JavaScript, Java, Testes E2E e muito mais.
-- 🌱 Atualmente estou me aprofundando no backend, e estou cada dia mais fascinado!
+- 👀 Sou um desenvolvedor web - Estou imerso nos estudos de Java, Spring Boot, React e muito mais.
+- 🌱 Atualmente estou me aprofundando no desenvolvimento full stack, e estou cada dia mais fascinado!
 - 💞️ Estou procurando colaborar em diversos projetos, sejam eles front ou back end. Sou muito dedicado no que  faço, se não sei algo, eu corro atrás!
 - 📫 Voce pode me contatar pelo linkedin(https://www.linkedin.com/in/alexandre-gaia/) ou pelo email (alexandregaia.dev@gmail.com)
 
