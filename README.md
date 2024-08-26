@@ -10,6 +10,8 @@
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-gaia&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://raw.githubusercontent.com/{coder-gaia}/{coder-gaia}/output/github-contribution-grid-snake-dark.svg)
+
 
 <!---
 coder-gaia/coder-gaia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
