@@ -1,8 +1,6 @@
-- 👋 Olá, eu sou @coder-gaia!
-- 👀 Sou um desenvolvedor web - Estou imerso nos estudos de Java, Spring Boot, React e muito mais.
-- 🌱 Atualmente estou me aprofundando no desenvolvimento full stack, e estou cada dia mais fascinado!
-- 💞️ Estou procurando colaborar em diversos projetos, sejam eles front ou back end. Sou muito dedicado no que  faço, se não sei algo, eu corro atrás!
-- 📫 Voce pode me contatar pelo linkedin(https://www.linkedin.com/in/alexandre-gaia/) ou pelo email (alexandregaia.dev@gmail.com)
+Meu nome é Alexandre sou um desenvolvedor web junior com 1 ano de experiência na área onde aprendi muito sobre resolução de problemas e trabalho em equipe. Tenho focado todo o meu tempo e energia em me tornar um desenvolvedor full stack de alta qualidade, com estudos intensivos na EBAC, Udemy e muito mais.
+
+Ao longo da minha trajetória, desenvolvi habilidades valiosas não param apenas em desenvolvimento de software, mas também em colaboração eficaz com colegas e stakeholders. Estou entusiasmado para aplicar meu conhecimento e contribuir de maneira positiva em projetos desafiadores. Estou à disposição para novas oportunidades e para compartilhar o que aprendi até agora!
 
 ### Details
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-gaia&show_icons=true&theme=tokyonight)
