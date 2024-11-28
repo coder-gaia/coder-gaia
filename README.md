@@ -1,4 +1,4 @@
-Meu nome é Alexandre sou um desenvolvedor web junior com 1 ano de experiência na área onde aprendi muito sobre resolução de problemas e trabalho em equipe. Tenho focado todo o meu tempo e energia em me tornar um desenvolvedor full stack de alta qualidade, com estudos intensivos na EBAC, Udemy e muito mais.
+Meu nome é Alexandre sou um desenvolvedor web com 1 ano de experiência na área onde aprendi muito sobre resolução de problemas e trabalho em equipe. Tenho focado todo o meu tempo e energia em me tornar um desenvolvedor full stack de alta qualidade, com estudos intensivos na EBAC, Udemy e muito mais.
 
 Ao longo da minha trajetória, desenvolvi habilidades valiosas não param apenas em desenvolvimento de software, mas também em colaboração eficaz com colegas e stakeholders. Estou entusiasmado para aplicar meu conhecimento e contribuir de maneira positiva em projetos desafiadores. Estou à disposição para novas oportunidades e para compartilhar o que aprendi até agora!
 
