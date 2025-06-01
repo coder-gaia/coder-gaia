@@ -1,6 +1,5 @@
-Meu nome é Alexandre sou um desenvolvedor web com 1 ano de experiência na área onde aprendi muito sobre resolução de problemas e trabalho em equipe. Tenho focado todo o meu tempo e energia em me tornar um desenvolvedor full stack de alta qualidade, com estudos intensivos na EBAC, Udemy e muito mais.
-
-Ao longo da minha trajetória, desenvolvi habilidades valiosas não que param apenas em desenvolvimento de software, mas também em colaboração eficaz com colegas e stakeholders. Estou entusiasmado para aplicar meu conhecimento e contribuir de maneira positiva em projetos desafiadores. Estou à disposição para novas oportunidades e para compartilhar o que aprendi até agora!
+Meu nome é Alexandre Gaia e eu sou um desenvolvedor web. Atualmente sou acadêmico de Engenharia de Software na Universidade Cesumar, onde estou aprimorando minhas habilidades técnicas e softs skills.
+Minha trajetória como dev iniciou-se em 2023, desde então não paro de estudar e evoluir, dentre minhas hablidades, destacam-se as stacks: Java, Spring Boot, React e JavaScript. Além disso, possuo conhecimento em modelagem de banco de dados, tanto SQL como NoSQL. Bibliotecas como Next, Express e TypeScript também fazem parte do meu arsenal. Nesses anos como dev, obtive bastante experiência na criação de ecommerces funcionais e seguros, e finalmente quero salientar minha fluência em inglês, o que me possibilita programar de forma padronizada.
 
 ### Details
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-gaia&show_icons=true&theme=tokyonight)
