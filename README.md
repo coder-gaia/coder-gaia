@@ -13,11 +13,6 @@ Além disso, atuo em projetos de e-commerce e plataformas governamentais, com fo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Activity
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-gaia)
-
-
 ## Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/coder-gaia/coder-gaia/output/snake-dark.svg) 
