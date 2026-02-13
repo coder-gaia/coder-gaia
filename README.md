@@ -1,14 +1,15 @@
-Meu nome é Alexandre Gaia e eu sou um desenvolvedor web. Atualmente, acadêmico de Engenharia de Software na Universidade Cesumar, onde estou aprimorando minhas habilidades técnicas e softs skills.
-Além disso, atualmente estou atuando como desenvolvedor full stack júnior, a cada dia que se passa eu me apaixono mais pelo backend!
-Minha trajetória como dev iniciou-se em 2023, desde então não paro de estudar e evoluir, dentre minhas hablidades, destacam-se as stacks: Java, Spring Boot, React e JavaScript. Além disso, possuo conhecimento em modelagem de banco de dados, tanto SQL como NoSQL. Bibliotecas como Next, Express e TypeScript também fazem parte do meu arsenal. Nesses anos como dev, obtive bastante experiência na criação de ecommerces funcionais e seguros, e finalmente quero salientar minha fluência em inglês, o que me possibilita programar de forma padronizada.
+Olá, eu sou o Ale! Desenvolvedor Full Stack Júnior com foco em backend e construção de sistemas web escaláveis. Acadêmico de Engenharia de Software. Experiência prática em desenvolvimento e manutenção de plataformas em produção, atuando com features end-to-end, melhorias arquiteturais e estabilidade de sistemas.
+Além disso, atuo em projetos de e-commerce e plataformas governamentais, com foco em qualidade de código, performance e manutenibilidade. Inglês fluente para leitura técnica e desenvolvimento.
 
-### Details
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-gaia&show_icons=true&theme=tokyonight)
+## Stack
 
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-gaia&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 <!---
