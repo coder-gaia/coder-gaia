@@ -15,7 +15,8 @@ Além disso, atuo em projetos de e-commerce e plataformas governamentais, com fo
 
 ## Contribution Snake
 
-![snake](https://raw.githubusercontent.com/coder-gaia/coder-gaia/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/coder-gaia/coder-gaia/output/snake.svg)
+
 
 
 
