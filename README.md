@@ -13,13 +13,10 @@ Além disso, atuo em projetos de e-commerce e plataformas governamentais, com fo
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Stats
+##Actvity
 
-![stats](https://github-readme-stats.vercel.app/api?username=coder-gaia&show_icons=true)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-gaia)
 
-## Trophies
-
-![trophies](https://github-profile-trophy.vercel.app/?username=coder-gaia)
 
 ## Contribution Snake
 
