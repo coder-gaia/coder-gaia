@@ -11,6 +11,11 @@ Além disso, atuo em projetos de e-commerce e plataformas governamentais, com fo
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## Contribution Snake
+
+![snake](https://raw.githubusercontent.com/coder-gaia/coder-gaia/output/github-contribution-grid-snake.svg)
+
+
 
 <!---
 coder-gaia/coder-gaia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
