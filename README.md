@@ -15,11 +15,7 @@ Além disso, atuo em projetos de e-commerce e plataformas governamentais, com fo
 
 ## Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coder-gaia/coder-gaia/output/snake.dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/coder-gaia/coder-gaia/output/snake.svg">
-</picture>
-
+![snake](https://raw.githubusercontent.com/coder-gaia/coder-gaia/output/snake-dark.svg) 
 
 
 
