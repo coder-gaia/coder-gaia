@@ -1,4 +1,4 @@
-Olá, eu sou o Ale! Desenvolvedor Full Stack Júnior com foco em backend e construção de sistemas web escaláveis. Acadêmico de Engenharia de Software. Experiência prática em desenvolvimento e manutenção de plataformas em produção, atuando com features end-to-end, melhorias arquiteturais e estabilidade de sistemas.
+Olá, eu sou o Alexandre! Desenvolvedor Full Stack Júnior com foco em backend e construção de sistemas web escaláveis. Acadêmico de Engenharia de Software. Experiência prática em desenvolvimento e manutenção de plataformas em produção, atuando com features end-to-end, melhorias arquiteturais e estabilidade de sistemas.
 Além disso, atuo em projetos de e-commerce e plataformas governamentais, com foco em qualidade de código, performance e manutenibilidade. Inglês fluente para leitura técnica e desenvolvimento.
 
 ## Stack
