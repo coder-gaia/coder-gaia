@@ -29,8 +29,6 @@ Atuo em projetos de e-commerce e plataformas governamentais, com foco em qualida
 
 ---
 
-## Contribution Snake
-
 ![snake](https://raw.githubusercontent.com/coder-gaia/coder-gaia/output/snake-dark.svg)
 
 ---
