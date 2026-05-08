@@ -19,6 +19,16 @@ Atuo em projetos de e-commerce e plataformas governamentais, com foco em qualida
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+## 💼 Experiência
+
+### InfinityBase — Jr. Full Stack Developer  
+**Nov 2025 – May 2026**
+
+- Desenvolvimento full stack em plataforma SaaS em produção  
+- APIs em Node.js/TypeScript  
+- Correções e evolução de funcionalidades existentes  
+- Refatoração de código e melhorias de estabilidade  
+- Participação em entregas de features e manutenção contínua  
 
 ## 📚 Atualmente estudando
 
