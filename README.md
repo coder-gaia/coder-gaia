@@ -64,14 +64,18 @@ Atuo em projetos de e-commerce e plataformas governamentais, com foco em qualida
 - Java com foco em Orientação a Objetos
 - Aprofundamento em testes End-to-End com Playwright
 
+## 📫 Contato
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre%20Gaia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-gaia/)
+
+[![Email](https://img.shields.io/badge/Email-alexandregaia.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandregaia.dev@gmail.com)
+
+</div>
+
 ---
 
 ![snake](https://raw.githubusercontent.com/coder-gaia/coder-gaia/output/snake-dark.svg)
 
 ---
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre%20Gaia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-gaia/)
-
-[![Email](https://img.shields.io/badge/Email-alexandregaia.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandregaia.dev@gmail.com)
