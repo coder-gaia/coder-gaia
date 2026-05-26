@@ -1,8 +1,7 @@
 ## Sobre mim
+Hey there! I'm Alexandre! Full Stack Developer focused on backend and building scalable web systems. I'm a Software Engineering student. I have practical experience in developing and maintaining production platforms, working with end-to-end features, architectural improvements, and system stability.
 
-Olá, eu sou o Alexandre! Desenvolvedor Full Stack Júnior com foco em backend e construção de sistemas web escaláveis. Acadêmico de Engenharia de Software. Experiência prática em desenvolvimento e manutenção de plataformas em produção, atuando com features end-to-end, melhorias arquiteturais e estabilidade de sistemas.  
-
-Atuo em projetos de e-commerce e plataformas governamentais, com foco em qualidade de código, performance e manutenibilidade. Inglês fluente para leitura técnica e desenvolvimento.
+I work on e-commerce and government platform projects, focusing on code quality, performance, and maintainability. I'm fluent in English for technical reading and development.
 
 ---
 
@@ -46,25 +45,24 @@ Atuo em projetos de e-commerce e plataformas governamentais, com foco em qualida
 </div>
 
 ---
-## 💼 Experiência
+## 💼 Experience
 
 ### InfinityBase — Jr. Full Stack Developer  
 **Nov 2025 – May 2026**
 
-- Desenvolvimento full stack em plataforma SaaS em produção  
-- APIs em Node.js/TypeScript  
-- Correções e evolução de funcionalidades existentes  
-- Refatoração de código e melhorias de estabilidade  
-- Participação em entregas de features e manutenção contínua  
+- Full-stack development on a production SaaS platform
+- APIs in Node.js/TypeScript
+- Bug fixes and improvements to existing features
+- Code refactoring and stability enhancements
+- Participation in feature releases and ongoing maintenance
 
-## 📚 Atualmente estudando
+## 📚 Currently studying
 
-- Aprofundamento avançado em JavaScript
-- Linguagem C
-- Java com foco em Orientação a Objetos
-- Aprofundamento em testes End-to-End com Playwright
+- Advanced JavaScript skills
+- C programming language
+- Java with a focus on Object-Oriented Programming
 
-## 📫 Contato
+## 📫 Get in touch
 
 <div align="center">
   
