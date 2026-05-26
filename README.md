@@ -1,4 +1,4 @@
-## Sobre mim
+## About me
 Hey there! I'm Alexandre! Full Stack Developer focused on backend and building scalable web systems. I'm a Software Engineering student. I have practical experience in developing and maintaining production platforms, working with end-to-end features, architectural improvements, and system stability.
 
 I work on e-commerce and government platform projects, focusing on code quality, performance, and maintainability. I'm fluent in English for technical reading and development.
