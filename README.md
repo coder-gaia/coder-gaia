@@ -47,7 +47,7 @@ I work on e-commerce and government platform projects, focusing on code quality,
 ---
 ## 💼 Experience
 
-### InfinityBase — Jr. Full Stack Developer  
+### InfinityBase — Full Stack Developer  
 **Nov 2025 – May 2026**
 
 - Full-stack development on a production SaaS platform
