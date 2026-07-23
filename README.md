@@ -2,7 +2,7 @@
 
 Hey! I'm Alexandre, a Full Stack Developer with a backend focus, passionate about designing scalable APIs and building reliable web applications.
 
-I'm currently studying Software Engineering and have professional experience developing production systems for e-commerce and government platforms. My work involves implementing new features, improving architecture, integrating external services, and maintaining application stability. Fluent in English, with professional proficiency in technical communication, documentation, and software development.
+I'm currently studying Software Engineering and I have professional experience building and maintaining production systems. My work involves implementing new features, improving architecture, integrating external services, and maintaining application stability. Fluent in English, with professional proficiency in technical communication, documentation, and software development.
 
 My primary stack is TypeScript, Node.js, React, PostgreSQL, Docker, and AWS. I'm also expanding my knowledge of Java and Spring Boot.
 
@@ -62,20 +62,20 @@ I'm always interested in clean architecture, performance optimization, testing, 
 Nov 2025 – May 2026
 
 - Developed and maintained production features for a SaaS platform.
-- Built REST APIs using Node.js and TypeScript.
-- Improved existing modules through refactoring and performance optimizations.
-- Fixed production bugs and contributed to platform stability.
-- Collaborated on feature releases and long-term maintenance.
+- Designed and implemented REST APIs using Node.js and TypeScript.
+- Refactored existing modules to improve maintainability and performance.
+- Resolved production issues and enhanced application stability.
+- Collaborated with the team on feature delivery, code reviews, and continuous improvements.
 
 ## Current Focus
 
-- Building scalable backend systems with Node.js & TypeScript
-- REST APIs and integrations
-- Software Architecture & Clean Code
+- Scalable backend systems with Node.js & TypeScript
+- REST APIs, authentication and third-party integrations
+- Software Architecture, Clean Code and Design Patterns
 - Java & Spring Boot
-- Docker & AWS
+- Docker, AWS and CI/CD
 
-##  Get in touch
+##  Let's connect
 
 <div align="center">
   
