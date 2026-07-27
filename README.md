@@ -103,3 +103,7 @@ I enjoy designing scalable APIs, improving software architecture, optimizing per
 ---
 
 ![snake](https://raw.githubusercontent.com/coder-gaia/coder-gaia/output/snake-dark.svg)
+
+---
+
+> Always learning, always building, always improving.
