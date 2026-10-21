@@ -18,7 +18,9 @@ Based in Brazil · Portuguese (native) · English (fluent) · Open to full stack
 
 ## Featured projects
 
-- **[Pocket Lab](https://github.com/coder-gaia/gameboy-emulator)** · [live demo](https://gameboy-emulator-aox.pages.dev/)<br>
+- **[Bora](https://github.com/coder-gaia/BORA)** · [live demo](https://bora.alexandregaia.me/) (weekdays, 9am to 10pm BRT)<br>
+  Real-time delivery dispatch for São Paulo in Java and Spring Boot. Couriers are ranked by road travel time with PostGIS and an embedded GraphHopper, database constraints block double bookings across two API instances, and 120 simulated couriers keep the map alive.
+- **[Pocket Lab](https://github.com/coder-gaia/gameboy-emulator)** · [live demo](https://pocketlab.alexandregaia.me/)<br>
   Game Boy emulator with a custom TypeScript core, running in the browser and validated in CI against 103 hardware test ROMs (Blargg, Mooneye and dmg-acid2).
 - **[Distributed Wagering Processor](https://github.com/coder-gaia/wagering-processor)**<br>
   NestJS financial service that stays correct when wagers arrive duplicated, out of order or concurrently across instances: per-wallet locking, an immutable ledger, a transactional outbox and 236 tests.
@@ -31,7 +33,7 @@ More projects at [alexandregaia.me](https://alexandregaia.me).
 
 ## Experience
 
-**Full Stack Developer · InfinityBase** (Nov 2025 – May 2026)
+**Full Stack Developer · InfinityBase** (Nov 2025 to May 2026)
 
 - Built REST APIs with Node.js and Express, improving backend integration response time by around 25%.
 - Modeled data in PostgreSQL and MySQL with Sequelize for an environmental management platform.
@@ -41,6 +43,6 @@ More projects at [alexandregaia.me](https://alexandregaia.me).
 ## Stack
 
 - **Backend:** TypeScript, Node.js, NestJS, Express, Java, Spring Boot
-- **Data & infra:** PostgreSQL, Prisma, Redis, Docker, AWS (SQS)
+- **Data & infra:** PostgreSQL, PostGIS, Prisma, Redis, Docker, AWS (SQS)
 - **Frontend:** React, Vite, TanStack Query, Tailwind CSS
-- **Testing:** Vitest, Playwright
+- **Testing:** Vitest, Playwright, JUnit, Testcontainers
