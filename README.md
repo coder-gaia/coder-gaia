@@ -18,7 +18,7 @@ Based in Brazil · Portuguese (native) · English (fluent) · Open to full stack
 
 ## Featured projects
 
-- **[Bora](https://github.com/coder-gaia/BORA)** · [live demo](https://bora.alexandregaia.me/) (weekdays, 9am to 10pm BRT)<br>
+- **[Bora](https://github.com/coder-gaia/BORA)** · [live demo](https://bora.alexandregaia.me/) (weekdays, 10am to 10pm BRT)<br>
   Real-time delivery dispatch for São Paulo in Java and Spring Boot. Couriers are ranked by road travel time with PostGIS and an embedded GraphHopper, database constraints block double bookings across two API instances, and 120 simulated couriers keep the map alive.
 - **[Pocket Lab](https://github.com/coder-gaia/gameboy-emulator)** · [live demo](https://pocketlab.alexandregaia.me/)<br>
   Game Boy emulator with a custom TypeScript core, running in the browser and validated in CI against 103 hardware test ROMs (Blargg, Mooneye and dmg-acid2).
